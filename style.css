@@ -768,15 +768,15 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
 }
 
 .tour-fullbay .tour-body::before {
-  background-image: url('images/ladyrock.jpg');
+  background-image: url('images/perast.jpg');
 }
 
 .tour-photography .tour-body::before {
-  background-image: url('images/mamula.jpg');
+  background-image: url('images/ladyrock.jpg');
 }
 
 .tour-snorkeling .tour-body::before {
-  background-image: url('images/cave3.webp');
+  background-image: url('images/mamula.jpg');
 }
 
 .tour-private-charter .tour-body::before {
@@ -820,15 +820,15 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
 }
 
 .featured-tour-card.tour-sunset::before {
-  background-image: url('images/sunset.jpg');
+  background-image: url('images/mamula.jpg');
 }
 
 .featured-tour-card.tour-fullbay::before {
-  background-image: url('images/ladyrock.jpg');
+  background-image: url('images/perast.jpg');
 }
 
 .featured-tour-card.tour-photography::before {
-  background-image: url('images/mamula.jpg');
+  background-image: url('images/ladyrock.jpg');
 }
 
 .tour-header-row { display: flex; align-items: flex-start; gap: 1.25rem; margin-bottom: 1.25rem; }
